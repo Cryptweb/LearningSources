@@ -6,6 +6,9 @@
     Sorry for the really ugly code, I didn't think I would be releasing the source, lmao.
 --]]
 
+-- *NOTE: If the script doesn't start, remove the code in line 70.
+-- Aka: repeat wait() until LP.Character:FindFirstChild("FULLY_LOADED_CHAR");
+
 
 --// Settings
 
